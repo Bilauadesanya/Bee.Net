@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qW0W2Fk3yYIZcXt2PO26npvcQKbvVu9unipWr6qWedDMzbJoekJ58SvZUMHj1+ivL5grKHc2I1bKOStyeM/rdQ==",
+  "dgSpecHash": "qG+pCNE26zvObDLDGT9w/NeT8Eh8tC7Yd/BwoEBiwtqyveUkhfTAC1M20lBh5MIfgg9Af91AHEqtKYwzyh4SBw==",
   "success": true,
-  "projectFilePath": "/Users/Jasmine/Bee.Net/application/application.csproj",
+  "projectFilePath": "/Users/Jasmine/Bee.Net/Application/Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

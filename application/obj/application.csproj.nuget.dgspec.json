@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Jasmine/Bee.Net/application/application.csproj": {}
+    "/Users/Jasmine/Bee.Net/Application/Application.csproj": {}
   },
   "projects": {
-    "/Users/Jasmine/Bee.Net/application/application.csproj": {
+    "/Users/Jasmine/Bee.Net/Application/Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Jasmine/Bee.Net/application/application.csproj",
-        "projectName": "application",
-        "projectPath": "/Users/Jasmine/Bee.Net/application/application.csproj",
+        "projectUniqueName": "/Users/Jasmine/Bee.Net/Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/Users/Jasmine/Bee.Net/Application/Application.csproj",
         "packagesPath": "/Users/Jasmine/.nuget/packages/",
-        "outputPath": "/Users/Jasmine/Bee.Net/application/obj/",
+        "outputPath": "/Users/Jasmine/Bee.Net/Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Jasmine/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net6.0"
         ],
         "sources": {
           "/usr/local/share/dotnet/library-packs": {},
@@ -25,8 +25,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
