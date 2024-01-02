@@ -42,7 +42,7 @@ resource "azurerm_windows_web_app" "cd-webapp" {
 
     application_stack {
       current_stack       = "dotnet"
-      dotnet_version = "v6.0" # .NET 7 version
+      dotnet_version = "v6.0" # .NET 6 version
     }
   }
 
